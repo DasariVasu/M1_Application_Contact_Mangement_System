@@ -24,6 +24,7 @@ The key features of contact management system are listed below:
  - This project will be very useful for findig& storing the contacts
  - Easy to know where the contact store
  - Work becomes very easily & speedly & easy to edit the information.
+ - The biggest disadvantage of online accounting is that you can no longer do without the internet. 
  ## 4W's and 1'H
 what : Contact Management is essential for keeping digital records of customer data.
 
