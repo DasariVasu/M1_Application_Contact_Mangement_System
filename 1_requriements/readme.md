@@ -1,10 +1,50 @@
-<h1>Requirements
-  <h3>Introduction
-    <h6>Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.You can list contacts by name, phone no., address and email. File handling has been used to record all data. I have used data structure to store the user name, email and contact. Overall, understanding the simple source code of this project will teach you how to add, edit, search, list and remove data using file.
-      
-<h1>Cost and Features and Timeline
-<h6>Add new Contact
-<h6>List All Contact
-<h6>Search for Contact
-<h6>Edit a Contact
-<h6>Delete a Contact
+# RREQUIREMENTS
+ ## Introduction
+ The Contact Management System is a project that can manage the contact details of a person you know. The system can help you organize a person details by entering their information such as Phone no, Name, Address, etc. The purpose of the system is to help and maintain the managing of a person contact info.
+ ## Research
+ The Contact Management System was created in a simple console application, the system can be access without providing any login information. The user can do a lot of task in the system in the system, he/she can add new contact, list all contact, search person detail, and delete person record. The system contains function that can manage the contact information being stored in the system. The user can update the current contact information. The entered data are stored as a text extension file in the system folder. The Contact Management System was developed in as a basic coding structure of C that can teach even without programming experience.
+ ## Cost And Features And Timeline
+ ### costs:
+ The Cost for the Contact Management System application is the intialization of software and system requirements . The running cost needs an working system with an the battery backsups. 
+ ### Features:
+ - Add new Contact
+ - List All Contact
+ - Search for Contact
+ - Edit a Contact
+ - Delete a Contact
+## Defining our System
+   The main objective of the project to store contact details of name ,phone no,email & address by using file handling, data structure, functions, and pointers are the main things which make up this simple C mini project .Be easy to understand by the user & operator and You can learn effective use of file handling, data structure and pointers from this project, especially how to record, modify, search, view and remove data in a file. Submitting this mini project on Contact Management System in C with little or no modification at all is completely discouraged.
+The key features of contact management system are listed below:
+- Add new contacts: with information such as name, phone number, address, and email
+ - List all contacts: lists all the contacts stored in file with their respective contact details
+ - Search contacts: based on name and phone number
+ - Edit contacts: edit information given while adding the contacts – name, phone      number, address, and email
+ - Delete contacts: deletes contacts from file
+ ## SWOT Analysis
+ - This project will be very useful for findig& storing the contacts
+ - Easy to know where the contact store
+ - Work becomes very easily & speedly & easy to edit the information.
+ ## 4W's and 1'H
+what : Contact Management is essential for keeping digital records of customer data.
+why : The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
+
+
+
+
+## Detail Requirements
+__High Level Requirements__
+| ID |   Description  |             Status   |
+|----|----------------|----------------------|
+| HLR1 | Login & Sign up |Users need to acces |
+| HLR2  | Store contacts |To  all Add contacts and edit contacts|
+
+__Lower Level Requirements__
+| ID |   Description  |             Status   |
+|----|----------------|----------------------|
+| LLR1 | User Inputs | To check the options they choose |
+| LLR2  | Operations | To Create,Search,edit & delete contacts|
+| LLR3  | Multifile Approach | To reduce the code structure |
+
+
+
+
