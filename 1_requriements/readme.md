@@ -26,6 +26,7 @@ The key features of contact management system are listed below:
  - Work becomes very easily & speedly & easy to edit the information.
  ## 4W's and 1'H
 what : Contact Management is essential for keeping digital records of customer data.
+
 why : The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
 
 
