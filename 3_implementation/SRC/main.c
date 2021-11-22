@@ -1,3 +1,4 @@
+#include <function.h>
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
