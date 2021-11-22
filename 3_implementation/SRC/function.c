@@ -1,3 +1,4 @@
+#include <function.h>
 scanf("%d",&ch);
 
     switch(ch)
