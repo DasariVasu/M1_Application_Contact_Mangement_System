@@ -6,3 +6,5 @@
 #include<process.h>
 #include<stdlib.h>
 #include<dos.h>
+switch (ch);
+#endif
