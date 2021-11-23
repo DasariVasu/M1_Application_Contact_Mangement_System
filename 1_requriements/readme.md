@@ -7,7 +7,7 @@ The Contact Management System was created in a simple console application, the s
 ### costs
 The Cost for the Contact Management System application is the intialization of software and system requirements . The running cost needs an working system with an the battery backsups. 
 ### Features
-- Add new Contact
+- Add new contact
 - List all contact
 - Search for contact
 - Edit a contact
