@@ -57,7 +57,7 @@ main:
         for (;;)
 
         {
-            fflush(stdin);
+            flush(stdin);
 
             printf("To Exit Enter Blank Space in the Name Input\nName (Use identical): ");
 
