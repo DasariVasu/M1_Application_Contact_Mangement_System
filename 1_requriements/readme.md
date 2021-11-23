@@ -1,4 +1,4 @@
-# RREQUIREMENTS
+# REQUIREMENTS
  ## Introduction
  The Contact Management System is a project that can manage the contact details of a person you know. The system can help you organize a person details by entering their information such as Phone no, Name, Address, etc. The purpose of the system is to help and maintain the managing of a person contact info.
  ## Research
