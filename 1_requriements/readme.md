@@ -47,8 +47,4 @@ __Lower Level Requirements__
 |----|----------------|----------------------|
 | LLR1 | User Inputs | To check the options they choose |
 | LLR2 | Operations | To Create,Search,edit & delete contacts|
-| LLR3 | Multifile Approach | To reduce the code structure |
-
-
-
-
+| LLR3 | Multifile Approach | To reduce the code structure|
