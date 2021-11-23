@@ -1,5 +1,5 @@
 # TESTPLAN 
-# Table no  High level test plan
+### Table no  High level test plan
 | ID | Test Scenario   |     Test Data      |
 |----| ----------------|---------------------                                       |
 | 1 |   Main men      | [1] Add a new conatct,[2] list all conatct,[3] search for contact ,[4]edit a conatct, [5]delete a conatct,[0] exit |
@@ -10,7 +10,7 @@
 | 6 | Delete  a contact |Enter a choice 5  Enter a name for deleting the record of Mahendra |
 | 7 | Exit | Enter a choice  0 (For exit the panel)  |
 
-# Expected Output
+### Expected Output
 | ID |  Expected Output  |
 |-----| -----------------|
 | 1  |  Enter a choice 1 |
