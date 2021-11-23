@@ -11,20 +11,20 @@
  -  List All Contact
  -  Search for Contact
  -  Edit a Contact
- -  Delete a Contact
+ -   Delete a Contact
 ## Defining our System
    The main objective of the project to store contact details of name ,phone no,email & address by using file handling, data structure, functions, and pointers are the main things which make up this simple C mini project .Be easy to understand by the user & operator and You can learn effective use of file handling, data structure and pointers from this project, especially how to record, modify, search, view and remove data in a file. Submitting this mini project on Contact Management System in C with little or no modification at all is completely discouraged.
 The key features of contact management system are listed below:
  -  Add new contacts  with information such as name, phone number, address, and email.
- -  List all contacts  lists all the contacts stored in file with their respective contact details.
+ -  List all contacts lists all the contacts stored in file with their respective contact details.
  -  Search contacts  based on name and phone number.
  -  Edit contacts  edit information given while adding the contacts – name, phone      number, address, and email.
  -  Delete contacts  deletes contacts from file.
  ## SWOT Analysis
  -  This project will be very useful for findig& storing the contacts.
  -  Easy to know where the contact store.
- -  Work becomes very easily & speedly & easy to edit the information.
- -  The biggest disadvantage of online accounting is that you can no longer do without the internet. 
+ -   Work becomes very easily & speedly & easy to edit the information.
+ -   The biggest disadvantage of online accounting is that you can no longer do without the internet. 
  ## 4W's and 1'H
 What : Contact Management is essential for keeping digital records of customer data.
 
