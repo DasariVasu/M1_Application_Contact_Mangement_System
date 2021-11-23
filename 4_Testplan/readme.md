@@ -1,4 +1,4 @@
-# TESTPLAN :
+# TESTPLAN 
 ### Table no: High level test plan
 | ID | Test Scenario   |     Test Data      |
 |----| ----------------|---------------------                                       |
@@ -10,7 +10,7 @@
 | 6 | Delete  a contact |Enter a choice :5  Enter a name for deleting the record of Mahendra |
 | 7 | Exit | Enter a choice : 0 (For exit the panel)  |
 
-# Expected Output:
+# Expected Output
 | ID |  Expected Output  |
 |-----| -----------------|
 | 1  |  Enter a choice :1 |
