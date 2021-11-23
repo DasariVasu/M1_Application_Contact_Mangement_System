@@ -1,7 +1,7 @@
 # TESTPLAN 
 ### Table no High level test plan
 | ID | Test Scenario   |     Test Data      |
-|----| ----------------|---------------------                                       |
+|----| ----------------|--------------------- |
 | 1 |   Main men      | [1] Add a new conatct,[2] list all conatct,[3] search for contact ,[4]edit a conatct, [5]delete a conatct,[0] exit |
 | 2 |   Add the contact  |Enter a choice  1 ,[1] Name vikas, phone   9700528456 , Address  Ndr layout, email  vikyvikas@gmail.com ,[2] Name vijay, phone  9799528456 , Address raj layout, email vijayaji@gmail.com  | 
 |3  | List all contact |   Enter  a choice 2 ,(it shows all contacts ) |
