@@ -5,4 +5,5 @@ In this project a contact manager is a software program on c language that enabl
 [![CI](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/main.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/main.yml)
 [![Linux C/C++ CI](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/c-cpp.yml)
 [![Windows C/C++ CI](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/windows_c-ccp.yml)
+[![C/C++ CI UnitTesting](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/unit_testing.yml)
 
