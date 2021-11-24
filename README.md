@@ -12,3 +12,5 @@ In this project a contact manager is a software program on c language that enabl
 [![C/C++ CI UnitTesting](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/unit_testing.yml)
 # Ccpcheck
 [![Code Quality - Static Code - Cppcheck](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/cppcheck.yml)
+# Getinspector Badge
+[![Contribution Check - Git Inspector](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/DasariVasu/M1_Application_Contact_Mangement_System/actions/workflows/gitinspector.yml)
